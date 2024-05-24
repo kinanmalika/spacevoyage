@@ -5,7 +5,7 @@ Body {background-image: url(background.jpg);
 
 nav ul {list-style-type: none;
 	background-image: url(header2.jpg);
-	box-shadow: 2px 4px 10px white;
+	box-shadow: 0px 2px 10px white;
 	background-size: 1000px;
         margin:0;
 	padding:0;
@@ -14,27 +14,30 @@ nav ul {list-style-type: none;
 	overflow:hidden;
 	position:fixed;
 }
+
 div h2 {float:left;
 	list-style-type:none;
 	font-family: Blanka;
 	color: white;
 	font-weight: bold;
 	text-shadow: 2px 4px 10px #FFF3B2;
-        font-size: 25px;     
+        font-size: 25px;    
+	display: block;
+    	text-align: center;
 }
- nav li {display:inline;
-    padding-right: 100px;
-    font-family: Blanka;
-    color: white;
-    font-weight: bold;
-    text-shadow: 2px 4px 10px #FFF3B2;
-    font-size: 25px;   
-    float:right;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 25px 25px;
-    text-decoration: none;
+
+nav li {display:inline;
+        padding-right: 100px;
+    	font-family: Blanka;
+    	color: white;
+    	font-weight: bold;
+    	text-shadow: 2px 4px 10px #FFF3B2;
+    	font-size: 25px;   
+    	float:right;
+	display: block;
+    	text-align: center;
+    	padding: 25px 25px;
+    	text-decoration: none;
 }
 
 img {display: block;
