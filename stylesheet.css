@@ -7,8 +7,10 @@ nav ul {list-style-type: none;
 	background-image: url(header2.jpg);
 	box-shadow: 2px 4px 10px white;
 	background-size: 1000px;
-        
-	
+        margin:0;
+	padding:0;
+	width:100%;
+	position:fixed;
 }
 nav ul li {display:inline;
 	   padding-right: 125px;
