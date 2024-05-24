@@ -11,6 +11,8 @@ nav ul {list-style-type: none;
 	padding:0;
 	top:0;
 	width:100%;
+	overflow:hidden;
+	position:fixed;
 }
 
 div h2 {float:left;
