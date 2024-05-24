@@ -32,6 +32,10 @@ nav li {display:inline;
     	text-shadow: 2px 4px 10px #FFF3B2;
     	font-size: 25px;   
     	float:right;
+	display: block;
+    	text-align: center;
+    	padding: 25px 25px;
+    	text-decoration: none;
 }
 
 marquee {color:#F9F8F8;
