@@ -24,13 +24,12 @@ div h2 {float:left;
         font-size: 25px;     
 }
 
-ul li {display:inline;
+nav li {display:inline;
     font-family: Blanka;
     color: white;
     font-weight: bold;
     text-shadow: 2px 4px 10px #FFF3B2;
     font-size: 25px;   
-    text-align:center;
     float:right;
 }
 
