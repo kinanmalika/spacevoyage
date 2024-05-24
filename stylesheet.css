@@ -9,8 +9,11 @@ nav ul {list-style-type: none;
 	background-size: 1000px;
         margin:0;
 	padding:0;
+	top:0;
 	width:100%;
 	position:fixed;
+	overflow:hidden;
+	
 }
 nav ul li {display:inline;
 	   padding-right: 125px;
