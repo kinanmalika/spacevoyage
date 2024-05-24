@@ -44,17 +44,3 @@ h1 {color: white;
     text-shadow: 2px 4px 10px #FFF3B2;
     text-align: center;
 }
-
-p {color:#FFF3B2;
-   text-shadow: 2px 4px 10px #FFF3B2;
-   font-size: 20px;
-   text-align: center;
-   font-family: monospace;
-}
-
-ol li {color: white;
-       font-size: 20px;
-       text-shadow: 2px 4px 10px #FFF3B2;
-       text-align: justify;
-       font-family: monospace;
-}
