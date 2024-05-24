@@ -14,7 +14,6 @@ nav ul {list-style-type: none;
 	overflow:hidden;
 	position:fixed;
 }
-
 div h2 {float:left;
 	list-style-type:none;
 	font-family: Blanka;
@@ -23,8 +22,7 @@ div h2 {float:left;
 	text-shadow: 2px 4px 10px #FFF3B2;
         font-size: 25px;     
 }
-
-nav li {display:inline;
+ nav li {display:inline;
     padding-right: 100px;
     font-family: Blanka;
     color: white;
@@ -32,6 +30,11 @@ nav li {display:inline;
     text-shadow: 2px 4px 10px #FFF3B2;
     font-size: 25px;   
     float:right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
 }
 
 img {display: block;
