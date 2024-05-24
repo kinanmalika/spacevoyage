@@ -30,6 +30,7 @@ ul li {display:inline;
     font-weight: bold;
     text-shadow: 2px 4px 10px #FFF3B2;
     font-size: 25px;   
+    text-align:center;
     float:right;
 }
 
