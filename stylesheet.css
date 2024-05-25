@@ -43,7 +43,7 @@ nav li {display:inline;
 marquee {color:#F9F8F8;
          font-weight: bold;
          font-size: 25px
-         font: monospace;
+         font-family: monospace;
 }
 
 img {display: block;
