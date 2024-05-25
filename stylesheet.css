@@ -40,6 +40,17 @@ nav li {display:inline;
     	text-decoration: none;
 }
 
+a:link {
+  background-color: none;
+}
+
+a:visited {
+  background-color: none;
+}
+
+a:hover {
+  background-color: #DD94FF;
+
 marquee {color:#F9F8F8;
          font-weight: bold;
          font-size: 25px;
