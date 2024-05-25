@@ -68,6 +68,7 @@ p {color:#FFF3B2;
    word-break: break-all;
    white-space: pre-wrap;
    width: 50%
+   border: 1px solid white
 }
 
 ol li {color: white;
