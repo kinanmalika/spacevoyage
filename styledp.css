@@ -39,3 +39,19 @@ nav li {display:inline;
     	padding: 25px 25px;
     	text-decoration: none;
 }
+
+
+a:link {
+  background-color: none;
+  color: white;
+}
+
+a:visited {
+  background-color: none;
+  color: #FFF3B2;
+}
+
+a:hover {
+  background-color: #DD94FF;
+  color: FFCE75;
+}
