@@ -46,3 +46,19 @@ img {display: block;
      width: 70%;
 }
 
+
+a:link {
+  background-color: none;
+  color: white;
+}
+
+a:visited {
+  background-color: none;
+  color: #FFF3B2;
+}
+
+a:hover {
+  background-color: #DD94FF;
+  color: FFCE75;
+}
+
