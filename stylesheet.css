@@ -73,7 +73,7 @@ pre ol li {color: white;
            text-shadow: 2px 4px 10px #FFF3B2;
            font-family: monospace;
 	   width: 60em;
-           word-wrap: break-word;
+           text-wrap: wrap;
 }
 
 p {color:#FFF3B2;
