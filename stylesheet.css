@@ -65,9 +65,7 @@ p {color:#FFF3B2;
    text-align: center;
    font-family: monospace;
    word-wrap: break-word;
-   word-break: break-all;
-   white-space: pre-wrap;
-   width: 500%;
+   width: 500px;
    border: 1px transparant;
 }
 
