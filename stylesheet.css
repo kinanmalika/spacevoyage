@@ -1,6 +1,7 @@
 Body {background-image: url(background.jpg);
       background-attachment: fixed;
       background-size: cover;
+      text-warp: break-word;
 }
 
 nav ul {list-style-type: none;
