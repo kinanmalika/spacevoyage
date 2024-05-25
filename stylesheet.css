@@ -66,6 +66,7 @@ p {color:#FFF3B2;
    font-family: monospace;
    word-wrap: break-word;
    width: 30em
+   border: 1px solid #000000;
 }
 
 ol li {color: white;
@@ -75,5 +76,6 @@ ol li {color: white;
        font-family: monospace;
        word-wrap: break-word;
        width: 30em
+       border: 1px solid #000000;
 }
 
