@@ -59,12 +59,12 @@ h1 {color: white;
     text-align: center;
 }
 
-p {color:#FFF3B2;
+pre p {color:#FFF3B2;
    text-shadow: 2px 4px 10px #FFF3B2;
    font-size: 20px;
    text-align: center;
    font-family: monospace;
-   width: 500px;
+   width: 50em;
    border: 1px solid white;
    word-wrap: break-word;
 }
