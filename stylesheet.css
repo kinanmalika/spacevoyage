@@ -65,9 +65,7 @@ pre p {color:#FFF3B2;
        text-align: center;
        font-family: monospace;
        width: 60em;
-       border: 1px solid white;
        word-wrap: break-word;
-       word-break: break-all;
 }
 
 pre ol li {color: white;
@@ -75,7 +73,6 @@ pre ol li {color: white;
            text-shadow: 2px 4px 10px #FFF3B2;
            font-family: monospace;
 	   width: 60em;
-           border: 1px solid white;
            word-wrap: break-word;
 }
 
