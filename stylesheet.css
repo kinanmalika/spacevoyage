@@ -64,9 +64,10 @@ p {color:#FFF3B2;
    font-size: 20px;
    text-align: center;
    font-family: monospace;
-   word-wrap: pre-wrap;
+   word-wrap: break-word;
+   word-break: break-all;
+   white-space: pre-wrap;
    width: 50%
-   overflow-wrap: break-word;
 }
 
 ol li {color: white;
