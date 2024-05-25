@@ -74,6 +74,9 @@ pre ol li {color: white;
            font-size: 20px;
            text-shadow: 2px 4px 10px #FFF3B2;
            font-family: monospace;
+	   width: 60em;
+           border: 1px solid white;
+           word-wrap: break-word;
 }
 
 p {color:#FFF3B2;
