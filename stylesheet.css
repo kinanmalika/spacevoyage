@@ -67,7 +67,7 @@ pre p {color:#FFF3B2;
        width: 60em;
        border: 1px solid white;
        word-wrap: break-word;
-       overflow-wrap: break-word;
+       word-break: break-all;
 }
 
 pre ol li {color: white;
