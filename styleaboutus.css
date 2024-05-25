@@ -40,6 +40,12 @@ nav li {display:inline;
     	text-decoration: none;
 }
 
+a img {display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+}
+
 img {display: block;
      margin-left: auto;
      margin-right: auto;
