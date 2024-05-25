@@ -64,9 +64,9 @@ p {color:#FFF3B2;
    font-size: 20px;
    text-align: center;
    font-family: monospace;
-   word-wrap: break-word;
    width: 500px;
    border: 1px solid white;
+   word-wrap: break-word;
 }
 
 pre ol li {color: white;
