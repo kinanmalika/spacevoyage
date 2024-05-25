@@ -64,8 +64,8 @@ p {color:#FFF3B2;
    font-size: 20px;
    text-align: center;
    font-family: monospace;
-   word-wrap: break-word;
-   width: 30em
+   text-wrap: break-word;
+   width: 100em
 }
 
 ol li {color: white;
