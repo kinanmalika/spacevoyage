@@ -64,7 +64,6 @@ pre p {color:#FFF3B2;
        font-size: 20px;
        text-align: center;
        font-family: monospace;
-       width: 60em;
        text-wrap: wrap;
 }
 
@@ -72,7 +71,6 @@ pre ol li {color: white;
            font-size: 20px;
            text-shadow: 2px 4px 10px #FFF3B2;
            font-family: monospace;
-	   width: 60em;
            text-wrap: wrap;
 }
 
