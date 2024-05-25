@@ -64,14 +64,14 @@ p {color:#FFF3B2;
    font-size: 20px;
    text-align: center;
    font-family: monospace;
-   text-wrap: break-word;
-   width: 100em
+   word-wrap: pre-wrap;
+   width: 50%
+   overflow-wrap: break-word;
 }
 
 ol li {color: white;
        font-size: 20px;
        text-shadow: 2px 4px 10px #FFF3B2;
-       text-align: justify;
        font-family: monospace;
        text-wrap: break-word;
        width: 30em
