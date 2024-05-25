@@ -42,7 +42,7 @@ nav li {display:inline;
 
 marquee {color:#F9F8F8;
          font-weight: bold;
-         font-size: 25px
+         font-size: 25px;
          font-family: monospace;
 }
 
@@ -67,8 +67,8 @@ p {color:#FFF3B2;
    word-wrap: break-word;
    word-break: break-all;
    white-space: pre-wrap;
-   width: 50%
-   border: 1px solid white
+   width: 100px;
+   border: 1px solid white;
 }
 
 ol li {color: white;
@@ -76,6 +76,6 @@ ol li {color: white;
        text-shadow: 2px 4px 10px #FFF3B2;
        font-family: monospace;
        text-wrap: break-word;
-       width: 30em
+       width: 30em;
 }
 
