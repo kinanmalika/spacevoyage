@@ -40,6 +40,9 @@ nav li {display:inline;
     	text-decoration: none;
 }
 
+iframe {align: center;
+	display: justify;
+}
 
 a:link {
   background-color: none;
