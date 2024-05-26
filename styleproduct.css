@@ -44,6 +44,14 @@ iframe {align: center;
 	display: justify;
 }
 
+p {color:#FFF3B2;
+   text-shadow: 2px 4px 10px #FFF3B2;
+   font-size: 20px;
+   text-align: center;
+   font-family: monospace;
+   text-wrap: wrap;
+}
+
 a:link {
   background-color: none;
   color: white;
